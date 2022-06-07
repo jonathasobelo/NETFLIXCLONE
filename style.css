@@ -35,7 +35,7 @@ header nav a{
     margin-right:10px;
 }
 
-header nav #:hover{
+header nav a:hover{
     color:#fff;
 }
 
@@ -75,4 +75,8 @@ header nav #:hover{
 .botao:hover{
     background-color: white;
     color: black;
+}
+
+.botao i{
+    margin-right: 5px;
 }
